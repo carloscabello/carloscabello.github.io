@@ -86,6 +86,6 @@ defaults:
 exclude:
   - README.md
   - CONTRIBUTING.md
-  - RESUME.md
+  - resume.md
   - LICENSE
   - "*.log"
