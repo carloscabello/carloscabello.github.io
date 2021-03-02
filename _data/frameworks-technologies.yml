@@ -1,0 +1,11 @@
+- name: Spring framework
+  percentage: 60
+  color: success
+
+- name: Wordpress
+  percentage: 50
+  color: dark
+
+- name: Django
+  percentage: 30
+  color: secondary

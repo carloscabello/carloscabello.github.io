@@ -1,0 +1,15 @@
+- name: Java
+  percentage: 70
+  color: danger
+
+- name: PHP
+  percentage: 50
+  color: dark
+
+- name: Front-end
+  percentage: 50
+  color: warning
+
+- name: Python
+  percentage: 40
+  color: primary
